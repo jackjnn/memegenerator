@@ -35,8 +35,8 @@ export default function Meme() {
         }))
     }
     
-    console.log("new changes")
-    console.log(meme.randomImage)
+    // console.log("new changes")
+    // console.log(meme.randomImage)
 
     return (
         <main>

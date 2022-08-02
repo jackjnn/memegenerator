@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Visualizing the app
+
+![GIF of app](memegen.gif)
+
 ## Live App: 
 
 https://memegenerator-jackjnn.herokuapp.com/
